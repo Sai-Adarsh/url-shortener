@@ -9,7 +9,7 @@ Follow this link to checkout this URL shortener API built using node.js and expr
 
 ```
 1. node
-2. Download mongoDB community server (https://www.mongodb.com/download-center?jmp=nav#community)
+2. [Download](https://www.mongodb.com/download-center?jmp=nav#community) mongoDB community server. 
 ```
 
 ### Local Setup
